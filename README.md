@@ -1,7 +1,3 @@
-Sure! Here's a draft for your GitHub profile README:
-
----
-
 ### Hi there, I'm Noah! 👋
 
 I'm a fourth-year data science student at Western Washington University with a passion for using data to drive understanding and advocacy in areas close to my heart, like neurodiversity and disability rights. I'm also actively involved in LGBTQ+ advocacy and disability rights projects.
