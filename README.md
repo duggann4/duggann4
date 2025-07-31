@@ -1,25 +1,41 @@
-### Hi there, I'm Noah! 👋
+### 👋 Hi, I'm Noah!
 
-I'm a fourth-year data science student at Western Washington University with a passion for using data to drive understanding and advocacy in areas close to my heart, like neurodiversity and disability rights. I'm also actively involved in LGBTQ+ advocacy and disability rights projects.
+I'm a Data Scientist with a B.S. in Data Science from Western Washington University. My work blends analytics, accessibility, and advocacy — with a focus on neurodiversity, disability rights, and public transit systems.
 
-#### 🌱 What I'm currently learning:
-- Natural Language Processing (NLP), focusing on machine learning models like Word2Vec and the use of word embeddings for analyzing media representation of disabilities.
-- Advancing my skills in Python, R, and SQL, with a particular interest in data visualization using Plotly.
+I bring experience from both research and production environments, and I’m passionate about using data to make systems more inclusive, efficient, and human-centered.
 
-#### 👯 I’m looking to collaborate on:
-- Projects that aim to utilize data science for social good, especially in the realms of education, accessibility, and advocacy.
-- Open-source initiatives that are focused on creating more inclusive and accessible technology.
+---
 
-#### 🤔 I’m looking for help with:
-- Finding more datasets related to education and neurodiversity for my ongoing projects.
-- Feedback on my code and design of data visualization.
+#### 🛠️ Tools & Languages:
+Python • R • SQL • GIS • Plotly • scikit-learn • Jupyter • GitHub
 
-#### 💬 Ask me about:
-- Anything related to data science, machine learning, or natural language processing.
-- My experience as a paraeducator and how I integrate data science into educational settings.
+---
 
-#### 📫 How to reach me:
-- Best way to reach me is through [my email](mailto://duggann@wwu.edu).
-- You can also find me discussing tech and advocacy on various online forums and social media platforms.
+#### 🔍 Current Projects:
+- **Productivity App (Flutter + Python)**: Modular design for transit-based workflows and reskin-ready for portfolio use
+- **SmartDrive (Adaptive Tech)**: Building a custom mobility controller using Arduino and ESP32
+- **GTFS Transit Data Analysis**: Exploring real-time patterns to inform accessible transit planning
 
-Feel free to look around my repositories and don't hesitate to reach out if you think we can work together on something exciting!
+---
+
+#### 🤝 I'm open to:
+- Collaborating on **data-for-good**, accessibility, or adaptive tech projects
+- Contributing to inclusive open-source initiatives
+- Entry-level roles in data science, GIS, or accessibility research
+
+---
+
+#### 🧠 Ask me about:
+- Working at the intersection of **tech + disability**
+- Data visualization & storytelling
+- My experience as a paraeducator and production tech
+
+---
+
+#### 📫 Reach out:
+[n.dugganerickson@outlook.com](mailto:n.dugganerickson@outlook.com)  
+[LinkedIn](https://linkedin.com/in/duggann) | [ORCID](https://orcid.org/0009-0004-1135-2025) | [MINDS Research](https://github.com/mindsresearch)
+
+---
+
+Thanks for visiting! Feel free to browse my repos or reach out if something sparks your interest.
